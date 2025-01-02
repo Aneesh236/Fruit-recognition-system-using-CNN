@@ -5,3 +5,5 @@ Classes: 24 fruit and vegetable categories.
 Images: Over 25,000 images.
 Format: Images are 100x100 pixels in RGB.
 Labels: Provided in CSV format for easy integration.
+
+Using keras and tensorflow, the dataset has been trained 
